@@ -13,7 +13,7 @@ SET time_zone = "+00:00";
 DROP DATABASE IF EXISTS  `sampleDB`;
 CREATE DATABASE IF NOT EXISTS `sampleDB`;
 
-USE `townsquare`;
+USE `sampleDB`;
 
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
@@ -22,7 +22,7 @@ USE `townsquare`;
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `townsquare`
+-- Database: `sampleDB`
 --
 
 -- --------------------------------------------------------
